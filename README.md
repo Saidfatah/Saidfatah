@@ -1,7 +1,7 @@
 ```
-  const me ={
-     fullName:"said fatah",
-     job:"software engineer",
-     location:"Morroco/ouarazazte"
-  }
+  class SoftwareEngineer {
+    name        : 'Said Fatah';
+    title       : 'Software Engineer';
+    location    : 'Morroco, Ouarzazte';
+}
 ```
